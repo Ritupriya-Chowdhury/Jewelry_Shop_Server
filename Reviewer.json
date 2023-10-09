@@ -1,0 +1,41 @@
+[
+    {
+      "reviewerName": "Aditi Ghosh",
+      "reviewerImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/instagram/insta-1.jpg?raw=true",
+      "rating": 3.5
+    },
+    {
+      "reviewerName": "Sumaiya Karim",
+      "reviewerImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/instagram/insta-2.jpg?raw=true",
+      
+      "rating": 4
+    },
+    {
+      "reviewerName": "Kathakoli Das",
+      "reviewerImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/instagram/insta-3.jpg?raw=true",
+     
+      "rating": 5
+    },
+    {
+      "reviewerName": "Nira Khan",
+      "reviewerImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/instagram/insta-4.jpg?raw=true",
+     
+      "rating": 4
+    },
+   
+    {
+      "reviewerName": "Sangeeta Roy",
+      "reviewerImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/instagram/insta-5.jpg?raw=true",
+      
+      "rating": 3.9
+    },
+    
+    {
+      "reviewerName": "Noah Johnson",
+      "reviewerImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/instagram/insta-6.jpg?raw=true",
+      
+      "rating": 3.8
+    }
+    
+    
+  ]

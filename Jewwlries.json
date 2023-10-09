@@ -1,0 +1,72 @@
+[
+    {
+      "jewelryName": "Diamond Earrings",
+      "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/1.jpg?raw=true",
+      "price": "5,00,000"
+    },
+    {
+        "jewelryName": "Gold Earrings",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/10.jpg?raw=true",
+        "price": "75,000"
+      },
+      {
+        "jewelryName": "Golden Traditional Necklace",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/11.jpg?raw=true",
+        "price": "1,80,000"
+      },
+      {
+        "jewelryName": "Golden Traditional Necklace",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/12.jpg?raw=true",
+        "price": "1,20,000"
+      },
+      {
+        "jewelryName": "Golden Traditional Necklace",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/13.jpg?raw=true",
+        "price": "1,55,000"
+      },
+      {
+        "jewelryName": "Gold Necklace",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/14.jpg?raw=true",
+        "price": "1,30,000"
+      },
+      {
+        "jewelryName": "Tikli",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/17.jpg?raw=true",
+        "price": "55,000"
+      },
+      {
+        "jewelryName": "Traditional Gold Earrings",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/18.jpg?raw=true",
+        "price": "1,52,000"
+      },
+      {
+        "jewelryName": "Diamond And Gold Plate Jhumka",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/23.jpg?raw=true",
+        "price": "2,00,00"
+      },
+      {
+        "jewelryName": "Bracelet",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/38.jpg?raw=true",
+        "price": "2,30,000"
+      },
+      {
+        "jewelryName": "Gold Curi",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/28.jpg?raw=true",
+        "price": 50
+      },
+      {
+        "jewelryName": "Jewelry Set",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/45.jpg?raw=true",
+        "price": "85,000"
+      },
+      {
+        "jewelryName": "Gold Ring With Diamond Stone",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/48.jpg?raw=true",
+        "price": "2,60,000"
+      },
+      {
+        "jewelryName": "Gold Locket With Diamond Stone",
+        "jewelryImage": "https://github.com/techiecoder2079/Jewellery-website/blob/main/images/product/70.jpg?raw=true",
+        "price": "1,53,000"
+      }
+]
